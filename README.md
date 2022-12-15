@@ -6,6 +6,7 @@
 ## ABOUT
 
 **This is a fully functional example Discord bot for Discord.js v13, made to show beginners the basics of a more advanced Discord bot** 
+<br>
 **Not functional for Discord.js v14!**
 
 This bot is open source, feel free to use it to learn the basics or modify it to your content! 
