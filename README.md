@@ -19,4 +19,4 @@ This bot is open source, feel free to use it to learn the basics or modify it to
 
 ## NEED HELP?
 
-If you need help with anything, or have a question, just shoot me a message on Discord! (`JerryFox#0001`)
+If you need help with anything, or have a question, just shoot me a message on Discord! (`JerryDev#0001`)
